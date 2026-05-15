@@ -1,5 +1,6 @@
 # Offline Music Player - Flutter Project (Lab 05)
 LINK VIDEO DEMO: https://drive.google.com/drive/u/2/folders/1YIJKL8c5ZA9aftZAkE7aGta2FfGzKtc5
+
 ẢNH MINH HỌA:
 <img width="552" height="890" alt="image" src="https://github.com/user-attachments/assets/f33385ad-d834-4863-b47b-ad2638d349f0" />
 <img width="643" height="829" alt="image" src="https://github.com/user-attachments/assets/cd34553e-fe8f-425d-b850-9f6f0f7a5de8" />
